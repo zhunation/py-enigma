@@ -1,6 +1,10 @@
 py-enigma: an enigma machine simulator
 ============================================
 Inspired by The Imitation Game  
+A Python enigma script that allows encryption and decryption based on randomly generated plugboards, rotors and reflector that accurately simulates how the enigma works. Even accounts for the unique double-stepping of the rotors!
+  
+  
+  
 Usage: python enigma.py  
  Commands:  
  new          => resets the machine configuration  
